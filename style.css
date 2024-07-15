@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.navbar{
+  background-color: rgba(198, 35, 230, 0.288);
+  padding: 10px 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px rgb(192, 27, 214);
+  font-family: 'Bebas Neue';
+  font-size: x-large;
+  color: azure;
+}
+
+
+body {
+  background-image: url(imagenes/fondoa.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.navbar-titulo {
+  color: black;
+  font-size: xx-large;
+  text-decoration: dashed;
+  text-shadow: 1px 1px 1px rgb(218, 218, 218);
+  margin-right: 10px;
+}
+
