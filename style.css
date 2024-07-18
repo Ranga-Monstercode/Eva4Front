@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
 .navbar{
   background-color: rgba(198, 35, 230, 0.288);
   padding: 10px 10px;
@@ -44,7 +46,6 @@ body {
   justify-content: center;
 }
 
-
 .textbox{
   color: white;
   text-align: center;
@@ -59,3 +60,26 @@ body {
   color: rgb(236, 226, 226);
 }
 
+.cuenta {
+  font-family: 'Russo one';
+  color: white;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0;
+  background-color: #f4f4f400;
+}
+#contador {
+  font-size: 2em;
+  text-align: center;
+  padding: 20px;
+  background-color: #ffffff00;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.89);
+  display: inline-block;
+  margin-left: 15cm;
+}
+
+.footer {
+  
+}
